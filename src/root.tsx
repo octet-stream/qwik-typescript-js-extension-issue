@@ -5,7 +5,8 @@ import {
   ServiceWorkerRegister,
 } from "@builder.io/qwik-city";
 
-import { RouterHead } from "./components/router-head/router-head.js";
+import { RouterHead } from "./components/router-head/router-head.tsx";
+// import { RouterHead } from "./components/router-head/router-head.js";
 
 import "./global.css";
 
